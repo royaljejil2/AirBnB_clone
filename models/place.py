@@ -4,7 +4,7 @@ from models.base_model import BaseModel
 
 
 class Place(BaseModel):
-    """Class for managing place objects.
+    """Represent a place.
 
     Attributes:
         city_id (str): The City id.
