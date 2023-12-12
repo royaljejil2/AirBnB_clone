@@ -13,7 +13,7 @@ The interface of the application is just like the Bash shell except that this ha
 You will need to clone the repository of the project from Github. This will contain the simple shell program and all of its dependencies.
 
 ```
-git clone https://github.com/The-Leo/AirBnB_clone.git
+git clone https://github.com/royaljejil2/AirBnB_clone.git
 ```
 After cloning the repository you will have a folder called AirBnB_clone. In here there will be several files that allow the program to work.
 
